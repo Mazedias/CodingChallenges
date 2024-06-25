@@ -13,6 +13,7 @@ mod easy {
     mod _66_plus_one;
     mod _67_add_binary;
     mod _69_sqrt;
+    mod _70_climbing_stairs;
     mod _1122_relative_sort_array;
 }
 
