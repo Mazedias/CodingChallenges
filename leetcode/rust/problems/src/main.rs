@@ -14,6 +14,7 @@ mod easy {
     mod _67_add_binary;
     mod _69_sqrt;
     mod _70_climbing_stairs;
+    mod _83_remove_duplicate_from_sorted_list;
     mod _1122_relative_sort_array;
 }
 
