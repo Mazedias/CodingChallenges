@@ -15,6 +15,7 @@ mod easy {
     mod _69_sqrt;
     mod _70_climbing_stairs;
     mod _83_remove_duplicate_from_sorted_list;
+    mod _350_intersection_of_two_arrays_2;
     mod _1122_relative_sort_array;
 }
 
