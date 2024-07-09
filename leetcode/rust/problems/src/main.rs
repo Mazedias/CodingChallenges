@@ -16,6 +16,7 @@ mod easy {
     mod _70_climbing_stairs;
     mod _83_remove_duplicate_from_sorted_list;
     mod _350_intersection_of_two_arrays_2;
+    // mod _88_merge_sorted_array;
     mod _1122_relative_sort_array;
 }
 
@@ -23,6 +24,7 @@ mod medium {
     mod _2_add_two_numbers;
     // mod _3_longest_substring_without_repeating_characters;
     mod _945_minimum_increment_to_make_array_unique;
+    mod _1823_find_the_winner_of_the_circular_game;
 }
 
 mod hard {
