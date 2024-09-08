@@ -17,6 +17,7 @@ mod easy {
     mod _83_remove_duplicate_from_sorted_list;
     mod _88_merge_sorted_array;
     mod _217_contains_duplicate;
+    mod _219_conatins_duplicate_2;
     mod _350_intersection_of_two_arrays_2;
     mod _1122_relative_sort_array;
     mod _2022_convert_1_d_array_into_2_d_array;
