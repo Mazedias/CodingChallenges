@@ -16,6 +16,7 @@ mod easy {
     mod _70_climbing_stairs;
     mod _83_remove_duplicate_from_sorted_list;
     mod _88_merge_sorted_array;
+    mod _136_single_number;
     mod _217_contains_duplicate;
     mod _219_conatins_duplicate_2;
     mod _350_intersection_of_two_arrays_2;
