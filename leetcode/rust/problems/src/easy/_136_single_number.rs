@@ -6,13 +6,13 @@ struct Solution;
 #[allow(dead_code)]
 impl Solution {
 
-        pub fn single_number (nums: Vec<i32>) -> i32 {
-            let mut temp = 0;
-            for num in nums {   
-                temp ^= num;
-            }   
-            temp
-        }
+    pub fn single_number (nums: Vec<i32>) -> i32 {
+        let mut temp = 0;
+        for num in nums {
+            temp ^= num;
+        }   
+        temp
+    }
 
     /**
      * My first solution before i saw it could be done with XOR 
