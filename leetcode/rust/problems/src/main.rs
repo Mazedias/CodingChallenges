@@ -22,6 +22,7 @@ mod easy {
     mod _219_conatins_duplicate_2;
     mod _350_intersection_of_two_arrays_2;
     mod _1122_relative_sort_array;
+    mod _1652_defuse_the_bomb;
     mod _2022_convert_1_d_array_into_2_d_array;
 }
 
