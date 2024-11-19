@@ -30,6 +30,7 @@ mod medium {
     mod _2_add_two_numbers;
     mod _3_longest_substring_without_repeating_characters;
     mod _7_reverse_integer;
+    mod _8_string_to_integer_atoi;
     mod _11_container_with_most_water;
     mod _945_minimum_increment_to_make_array_unique;
     mod _1823_find_the_winner_of_the_circular_game;
