@@ -41,6 +41,7 @@ mod medium {
 
 mod hard {
     mod _4_median_of_two_sorted_arrays;
+    mod _23_merge_k_sorted_lists;
     // mod _502_ipo;
 }
 
