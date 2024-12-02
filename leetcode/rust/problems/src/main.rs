@@ -23,6 +23,7 @@ mod easy {
     mod _350_intersection_of_two_arrays_2;
     mod _1122_relative_sort_array;
     mod _1346_check_if_n_and_its_double_exist;
+    mod _1455_check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence;
     mod _1652_defuse_the_bomb;
     mod _2022_convert_1_d_array_into_2_d_array;
 }
