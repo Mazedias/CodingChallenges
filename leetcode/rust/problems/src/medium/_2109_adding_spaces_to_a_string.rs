@@ -5,7 +5,7 @@ struct Solution;
 #[allow(dead_code)]
 impl Solution {
     pub fn add_spaces(s: String, spaces: Vec<i32>) -> String {
-        let mut solution = String::with_capacity(s.len() + spaces.len());
+        let mut solution = String::new();
 
         let mut next_space_index = 0;
         for (i, char) in s.chars().enumerate() {
