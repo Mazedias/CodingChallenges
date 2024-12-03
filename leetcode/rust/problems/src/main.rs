@@ -37,6 +37,7 @@ mod medium {
     mod _945_minimum_increment_to_make_array_unique;
     mod _1823_find_the_winner_of_the_circular_game;
     mod _2070_most_beatiful_item_for_each_query;
+    mod _2109_adding_spaces_to_a_string;
     mod _2257_count_unguarded_cells_in_the_grid;
     mod _2461_maximum_sum_of_distinct_subarrays_with_length_k;
 }
