@@ -75,12 +75,12 @@ public:
 };
 
 
-class TestClass : public ::testing::Test {
+class TestMergeKLists : public ::testing::Test {
 protected:
     Solution solution;
 };
 
-TEST_F(TestClass, SimpleMergeCase) {
+TEST_F(TestMergeKLists, SimpleMergeCase) {
     vector<ListNode*> lists = {
         createLinkedList({1, 4, 5}),
         createLinkedList({1, 3, 4}),
@@ -92,13 +92,13 @@ TEST_F(TestClass, SimpleMergeCase) {
     EXPECT_TRUE(compareLists(sol, solution.mergeKLists(lists)));
 }
 
-TEST_F(TestClass, EmptyLists) {
+TEST_F(TestMergeKLists, EmptyLists) {
     vector<ListNode*> lists = {};
 
     EXPECT_TRUE(compareLists(nullptr, solution.mergeKLists(lists)));
 }
 
-TEST_F(TestClass, EmptyList) {
+TEST_F(TestMergeKLists, EmptyList) {
     vector<ListNode*> lists = {{}};
 
     EXPECT_TRUE(compareLists(nullptr, solution.mergeKLists(lists)));   

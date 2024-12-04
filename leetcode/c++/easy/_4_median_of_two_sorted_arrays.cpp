@@ -25,19 +25,19 @@ public:
 };
 
 
-class TestFindMedian : public ::testing::Test {
+class TestFindMedianSortedArrays : public ::testing::Test {
 protected:
     Solution solution;
 };
 
-TEST_F(TestFindMedian, TestCase1) {
+TEST_F(TestFindMedianSortedArrays, TestCase1) {
     vector<int> nums1 = {1, 3};
     vector<int> nums2 = {2};
 
     EXPECT_EQ(solution.findMedianSortedArrays(nums1, nums2), 2.0);
 }
 
-TEST_F(TestFindMedian, TestCase2) {
+TEST_F(TestFindMedianSortedArrays, TestCase2) {
     vector<int> nums1 = {1, 2};
     vector<int> nums2 = {3, 4};
 

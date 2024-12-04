@@ -28,30 +28,30 @@ public:
 };
 
 
-class TestClass : public ::testing::Test {
+class TestCheckIfExist : public ::testing::Test {
 protected:
     Solution solution;
 };
 
-TEST_F(TestClass, ForwardSearchPossible) {
+TEST_F(TestCheckIfExist, ForwardSearchPossible) {
     vector<int> arr = {10, 2, 5, 3};
 
     EXPECT_TRUE(solution.checkIfExist(arr));
 }
 
-TEST_F(TestClass, BackwardsSearchNeeded) {
+TEST_F(TestCheckIfExist, BackwardsSearchNeeded) {
     vector<int> arr = {7, 1, 14, 11};
 
     EXPECT_TRUE(solution.checkIfExist(arr));
 }
 
-TEST_F(TestClass, NoSolutionNormalCase) {
+TEST_F(TestCheckIfExist, NoSolutionNormalCase) {
     vector<int> arr = {3, 1, 7, 11};
 
     EXPECT_FALSE(solution.checkIfExist(arr));
 }
 
-TEST_F(TestClass, CheckIfZeroWorks) {
+TEST_F(TestCheckIfExist, CheckIfZeroWorks) {
     vector<int> arr = {0, 0};
 
     EXPECT_TRUE(solution.checkIfExist(arr));

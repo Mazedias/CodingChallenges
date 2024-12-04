@@ -24,12 +24,12 @@ public:
 };
 
 
-class TestClass : public ::testing::Test {
+class TestAddSpaces : public ::testing::Test {
 protected:
     Solution solution;
 };
 
-TEST_F(TestClass, SimpleInsertionCase) {
+TEST_F(TestAddSpaces, SimpleInsertionCase) {
     string s = "LeetcodeHelpsMeLearn";
     vector<int> spaces = {8, 13, 15};
     string sol = "Leetcode Helps Me Learn";
@@ -37,7 +37,7 @@ TEST_F(TestClass, SimpleInsertionCase) {
     EXPECT_EQ(solution.addSpaces(s, spaces), sol);
 }
 
-TEST_F(TestClass, SimpleInsertionCase2) {
+TEST_F(TestAddSpaces, SimpleInsertionCase2) {
     string s = "icodeinpython";
     vector<int> spaces = {1, 5, 7, 9};
     string sol = "i code in py thon";
@@ -45,7 +45,7 @@ TEST_F(TestClass, SimpleInsertionCase2) {
     EXPECT_EQ(solution.addSpaces(s, spaces), sol);
 }
 
-TEST_F(TestClass, InsertAtEveryCharacter) {
+TEST_F(TestAddSpaces, InsertAtEveryCharacter) {
     string s = "spacing";
     vector<int> spaces = {0, 1, 2, 3, 4, 5, 6};
     string sol = " s p a c i n g";

@@ -54,40 +54,40 @@ public:
 };
 
 
-class TestClass : public ::testing::Test {
+class TestIsPrefixOfWord : public ::testing::Test {
 protected:
     Solution solution;
 };
 
-TEST_F(TestClass, SimplePossibleCase) {
+TEST_F(TestIsPrefixOfWord, SimplePossibleCase) {
     string sentence = "i love eating burgers";
     string seachWord = "burg";
 
     EXPECT_EQ(solution.isPrefixOfWord(sentence, seachWord), 4);
 }
 
-TEST_F(TestClass, SimplePossibleCase2) {
+TEST_F(TestIsPrefixOfWord, SimplePossibleCase2) {
     string sentence = "this problem is an easy problem";
     string searchWord = "pro";
 
     EXPECT_EQ(solution.isPrefixOfWord(sentence, searchWord), 2);
 }
 
-TEST_F(TestClass, ImpossibleCase) {
+TEST_F(TestIsPrefixOfWord, ImpossibleCase) {
     string sentence = "i am tired";
     string searchWord = "you";
 
     EXPECT_EQ(solution.isPrefixOfWord(sentence, searchWord), -1);
 }
 
-TEST_F(TestClass, SearchWordTooLong) {
+TEST_F(TestIsPrefixOfWord, SearchWordTooLong) {
     string sentence = " ";
     string searchWord = "you";
 
     EXPECT_EQ(solution.isPrefixOfWord(sentence, searchWord), -1);
 }
 
-TEST_F(TestClass, EmptySentence) {
+TEST_F(TestIsPrefixOfWord, EmptySentence) {
     string sentence = " ";
     string seachWord = "a";
 
