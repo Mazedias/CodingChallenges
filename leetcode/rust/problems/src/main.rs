@@ -40,6 +40,7 @@ mod medium {
     mod _2109_adding_spaces_to_a_string;
     mod _2257_count_unguarded_cells_in_the_grid;
     mod _2461_maximum_sum_of_distinct_subarrays_with_length_k;
+    mod _2554_maximum_number_of_integers_to_choose_from_a_range_1;
     mod _2825_make_string_a_subsequence_using_cyclic_increments;
 }
 
