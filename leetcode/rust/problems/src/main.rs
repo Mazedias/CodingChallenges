@@ -27,6 +27,7 @@ mod easy {
     mod _1652_defuse_the_bomb;
     mod _2022_convert_1_d_array_into_2_d_array;
     mod _2558_take_gifts_from_the_richest_pile;
+    mod _3264_final_array_state_after_k_multiplications_operations_1;
 }
 
 mod medium {
