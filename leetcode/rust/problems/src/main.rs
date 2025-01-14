@@ -44,6 +44,7 @@ mod medium {
     mod _2461_maximum_sum_of_distinct_subarrays_with_length_k;
     mod _2471_minimum_number_of_operations_to_sort_a_binary_tree_by_level;
     mod _2554_maximum_number_of_integers_to_choose_from_a_range_1;
+    mod _2657_find_the_prefix_common_array_of_two_arrays;
     mod _2825_make_string_a_subsequence_using_cyclic_increments;
     mod _3152_special_array_2;
     mod _3223_minimum_length_of_string_after_operations;
