@@ -38,6 +38,7 @@ mod medium {
     mod _11_container_with_most_water;
     mod _15_3sum;
     mod _945_minimum_increment_to_make_array_unique;
+    mod _1267_count_servers_that_communicate;
     mod _1765_map_of_highest_peak;
     mod _1823_find_the_winner_of_the_circular_game;
     mod _2017_grid_game;
