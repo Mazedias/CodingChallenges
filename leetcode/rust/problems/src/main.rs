@@ -37,6 +37,7 @@ mod medium {
     mod _8_string_to_integer_atoi;
     mod _11_container_with_most_water;
     mod _15_3sum;
+    mod _802_find_eventual_save_states;
     mod _945_minimum_increment_to_make_array_unique;
     mod _1267_count_servers_that_communicate;
     mod _1765_map_of_highest_peak;
