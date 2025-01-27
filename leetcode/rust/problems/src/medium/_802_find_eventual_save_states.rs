@@ -119,9 +119,9 @@ fn test_eventual_safe_nodes() {
         vec![0]
     ];
 
-    assert_eq!(Solution::eventual_save_nodes(graph1), vec![2, 4, 5, 6]);
-    assert_eq!(Solution::eventual_save_nodes(graph2), vec![4]);
-    assert_eq!(Solution::eventual_save_nodes(graph3), vec![0, 1, 2, 3, 4, 5, 6, 7, 8]);
-    assert_eq!(Solution::eventual_save_nodes(graph4), vec![3]);
-    assert_eq!(Solution::eventual_save_nodes(graph5), vec![]);
+    assert_eq!(Solution::eventual_safe_nodes(graph1), vec![2, 4, 5, 6]);
+    assert_eq!(Solution::eventual_safe_nodes(graph2), vec![4]);
+    assert_eq!(Solution::eventual_safe_nodes(graph3), vec![0, 1, 2, 3, 4, 5, 6, 7, 8]);
+    assert_eq!(Solution::eventual_safe_nodes(graph4), vec![3]);
+    assert_eq!(Solution::eventual_safe_nodes(graph5), vec![]);
 }
