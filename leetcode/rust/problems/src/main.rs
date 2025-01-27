@@ -40,6 +40,7 @@ mod medium {
     mod _802_find_eventual_save_states;
     mod _945_minimum_increment_to_make_array_unique;
     mod _1267_count_servers_that_communicate;
+    mod _1462_course_schedule_4;
     mod _1765_map_of_highest_peak;
     mod _1823_find_the_winner_of_the_circular_game;
     mod _2017_grid_game;
