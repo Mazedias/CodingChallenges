@@ -9,7 +9,7 @@ impl Solution {
 
     // A faster solution but not my own
     pub fn check_if_prerequisite(num_courses: i32, prerequisities: Vec<Vec<i32>>, queries: Vec<Vec<i32>>) -> Vec<bool> {
-        let (mut graph, mut in_degree) = prerequisities
+        let (graph, mut in_degree) = prerequisities
             .into_iter()
             .fold(([0_u128; 100], [0_i32; 100]), |(mut graph, mut in_degree), prereq| {
                 let (a, b) = (prereq[0], prereq[1]);
