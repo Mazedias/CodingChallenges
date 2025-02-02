@@ -25,6 +25,7 @@ mod easy {
     mod _1346_check_if_n_and_its_double_exist;
     mod _1455_check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence;
     mod _1652_defuse_the_bomb;
+    mod _1752_check_if_array_is_sorted_and_rotated;
     mod _2022_convert_1_d_array_into_2_d_array;
     mod _2558_take_gifts_from_the_richest_pile;
     mod _3151_special_array_1;
