@@ -28,6 +28,7 @@ mod easy {
     mod _1752_check_if_array_is_sorted_and_rotated;
     mod _2022_convert_1_d_array_into_2_d_array;
     mod _2558_take_gifts_from_the_richest_pile;
+    mod _3105_longest_stictly_increasing_or_strictly_decreasing_subarray;
     mod _3151_special_array_1;
     mod _3264_final_array_state_after_k_multiplications_operations_1;
 }
