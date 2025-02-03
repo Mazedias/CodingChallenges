@@ -37,7 +37,7 @@ TEST_F(TestIsArraySpecial, SimpleTestCase2) {
     EXPECT_EQ(solution.isArraySpecial(nums), true);
 }
 
-TEST_F(TestIsArraySpecial, SimpleTestCase2) {
+TEST_F(TestIsArraySpecial, SimpleTestCase3) {
     vector<int> nums = {4, 3, 1, 6};
 
     EXPECT_EQ(solution.isArraySpecial(nums), false);
