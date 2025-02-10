@@ -32,6 +32,7 @@ mod easy {
     mod _2558_take_gifts_from_the_richest_pile;
     mod _3105_longest_stictly_increasing_or_strictly_decreasing_subarray;
     mod _3151_special_array_1;
+    mod _3174_clear_digits;
     mod _3264_final_array_state_after_k_multiplications_operations_1;
 }
 
@@ -53,6 +54,8 @@ mod medium {
     mod _2070_most_beatiful_item_for_each_query;
     mod _2109_adding_spaces_to_a_string;
     mod _2257_count_unguarded_cells_in_the_grid;
+    mod _2349_design_a_number_container_system;
+    mod _2364_count_number_of_bad_pairs;
     mod _2425_bitwise_xor_of_all_pairings;
     mod _2429_minimize_xor;
     mod _2461_maximum_sum_of_distinct_subarrays_with_length_k;
@@ -62,6 +65,7 @@ mod medium {
     mod _2661_first_completely_painted_row_or_column;
     mod _2825_make_string_a_subsequence_using_cyclic_increments;
     mod _3152_special_array_2;
+    mod _3160_find_the_number_of_distinct_colors_among_the_balls;
     mod _3223_minimum_length_of_string_after_operations;
 }
 
