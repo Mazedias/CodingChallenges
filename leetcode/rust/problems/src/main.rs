@@ -55,6 +55,7 @@ mod medium {
     mod _2070_most_beatiful_item_for_each_query;
     mod _2109_adding_spaces_to_a_string;
     mod _2257_count_unguarded_cells_in_the_grid;
+    mod _2342_max_sum_of_a_pair_with_equal_sum_of_digits;
     mod _2349_design_a_number_container_system;
     mod _2364_count_number_of_bad_pairs;
     mod _2425_bitwise_xor_of_all_pairings;
