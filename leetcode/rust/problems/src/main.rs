@@ -66,6 +66,7 @@ mod medium {
     mod _2657_find_the_prefix_common_array_of_two_arrays;
     mod _2661_first_completely_painted_row_or_column;
     mod _2825_make_string_a_subsequence_using_cyclic_increments;
+    mod _3066_minimum_operations_to_exceed_threshold_value_2;
     mod _3152_special_array_2;
     mod _3160_find_the_number_of_distinct_colors_among_the_balls;
     mod _3223_minimum_length_of_string_after_operations;
