@@ -46,6 +46,7 @@ mod medium {
     mod _802_find_eventual_save_states;
     mod _945_minimum_increment_to_make_array_unique;
     mod _1267_count_servers_that_communicate;
+    mod _1352_product_of_the_last_k_numbers;
     mod _1462_course_schedule_4;
     mod _1726_tuple_with_same_product;
     mod _1765_map_of_highest_peak;
