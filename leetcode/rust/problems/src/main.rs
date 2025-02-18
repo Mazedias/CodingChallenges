@@ -61,6 +61,7 @@ mod medium {
     mod _2342_max_sum_of_a_pair_with_equal_sum_of_digits;
     mod _2349_design_a_number_container_system;
     mod _2364_count_number_of_bad_pairs;
+    mod _2375_construct_smallest_number_from_di_string;
     mod _2425_bitwise_xor_of_all_pairings;
     mod _2429_minimize_xor;
     mod _2461_maximum_sum_of_distinct_subarrays_with_length_k;
