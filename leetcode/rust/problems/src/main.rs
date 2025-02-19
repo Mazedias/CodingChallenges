@@ -48,6 +48,7 @@ mod medium {
     mod _1079_letter_tile_possibilities;
     mod _1267_count_servers_that_communicate;
     mod _1352_product_of_the_last_k_numbers;
+    mod _1415_the_k_th_lexicographical_string_of_all_happy_strings_of_length_n;
     mod _1462_course_schedule_4;
     mod _1718_construct_the_lexicographically_largest_valid_sequence;
     mod _1726_tuple_with_same_product;
