@@ -55,6 +55,7 @@ mod medium {
     mod _1765_map_of_highest_peak;
     mod _1823_find_the_winner_of_the_circular_game;
     mod _1910_remove_all_occurrences_of_a_substring;
+    mod _1980_find_unique_binary_string;
     mod _2017_grid_game;
     mod _2070_most_beatiful_item_for_each_query;
     mod _2109_adding_spaces_to_a_string;
