@@ -85,6 +85,7 @@ mod hard {
     mod _23_merge_k_sorted_lists;
     mod _407_trapping_rain_water_2;
     // mod _502_ipo;
+    mod _1028_recover_a_tree_from_preorder_traversal;
 }
 
 fn main() {
