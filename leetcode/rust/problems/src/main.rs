@@ -44,6 +44,7 @@ mod medium {
     mod _11_container_with_most_water;
     mod _15_3sum;
     mod _802_find_eventual_save_states;
+    mod _889_contruct_binary_tree_from_preorder_and_postorder_traversal;
     mod _945_minimum_increment_to_make_array_unique;
     mod _1079_letter_tile_possibilities;
     mod _1261_find_elements_in_a_contaminated_binary_tree;
@@ -68,6 +69,7 @@ mod medium {
     mod _2425_bitwise_xor_of_all_pairings;
     mod _2429_minimize_xor;
     mod _2461_maximum_sum_of_distinct_subarrays_with_length_k;
+    mod _2467_most_profitable_path_in_a_tree;
     mod _2471_minimum_number_of_operations_to_sort_a_binary_tree_by_level;
     mod _2554_maximum_number_of_integers_to_choose_from_a_range_1;
     mod _2657_find_the_prefix_common_array_of_two_arrays;
