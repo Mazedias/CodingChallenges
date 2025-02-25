@@ -52,6 +52,7 @@ mod medium {
     mod _1352_product_of_the_last_k_numbers;
     mod _1415_the_k_th_lexicographical_string_of_all_happy_strings_of_length_n;
     mod _1462_course_schedule_4;
+    mod _1524_number_of_sub_arrays_with_odd_sum;
     mod _1718_construct_the_lexicographically_largest_valid_sequence;
     mod _1726_tuple_with_same_product;
     mod _1765_map_of_highest_peak;
