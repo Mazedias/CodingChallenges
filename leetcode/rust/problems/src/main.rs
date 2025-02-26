@@ -55,6 +55,7 @@ mod medium {
     mod _1524_number_of_sub_arrays_with_odd_sum;
     mod _1718_construct_the_lexicographically_largest_valid_sequence;
     mod _1726_tuple_with_same_product;
+    mod _1749_maximum_absolute_sum_of_any_subarray;
     mod _1765_map_of_highest_peak;
     mod _1823_find_the_winner_of_the_circular_game;
     mod _1910_remove_all_occurrences_of_a_substring;
