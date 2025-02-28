@@ -47,6 +47,7 @@ mod medium {
     mod _889_contruct_binary_tree_from_preorder_and_postorder_traversal;
     mod _945_minimum_increment_to_make_array_unique;
     mod _1079_letter_tile_possibilities;
+    mod _1143_longest_common_subsequence;
     mod _1261_find_elements_in_a_contaminated_binary_tree;
     mod _1267_count_servers_that_communicate;
     mod _1352_product_of_the_last_k_numbers;
@@ -90,6 +91,7 @@ mod hard {
     mod _407_trapping_rain_water_2;
     // mod _502_ipo;
     mod _1028_recover_a_tree_from_preorder_traversal;
+    mod _1092_shortest_common_supersequence;
 }
 
 fn main() {
