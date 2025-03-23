@@ -42,6 +42,7 @@ mod medium {
     mod _7_reverse_integer;
     mod _8_string_to_integer_atoi;
     mod _11_container_with_most_water;
+    mod _12_integer_to_roman;
     mod _15_3sum;
     mod _802_find_eventual_save_states;
     mod _889_contruct_binary_tree_from_preorder_and_postorder_traversal;
