@@ -54,12 +54,12 @@ mod medium {
     mod _1415_the_k_th_lexicographical_string_of_all_happy_strings_of_length_n;
     mod _1462_course_schedule_4;
     mod _1524_number_of_sub_arrays_with_odd_sum;
-    mod _1718_construct_the_lexicographically_largest_valid_sequence;
     mod _1726_tuple_with_same_product;
     mod _1749_maximum_absolute_sum_of_any_subarray;
     mod _1765_map_of_highest_peak;
     mod _1823_find_the_winner_of_the_circular_game;
     mod _1910_remove_all_occurrences_of_a_substring;
+    mod _1976_number_of_ways_to_arrive_at_destination;
     mod _1980_find_unique_binary_string;
     mod _2017_grid_game;
     mod _2070_most_beatiful_item_for_each_query;
