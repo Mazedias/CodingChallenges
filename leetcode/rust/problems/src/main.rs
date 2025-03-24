@@ -84,6 +84,7 @@ mod medium {
     mod _3066_minimum_operations_to_exceed_threshold_value_2;
     mod _3152_special_array_2;
     mod _3160_find_the_number_of_distinct_colors_among_the_balls;
+    mod _3169_count_days_without_meetings;
     mod _3223_minimum_length_of_string_after_operations;
 }
 
