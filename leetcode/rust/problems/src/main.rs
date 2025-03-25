@@ -86,6 +86,7 @@ mod medium {
     mod _3160_find_the_number_of_distinct_colors_among_the_balls;
     mod _3169_count_days_without_meetings;
     mod _3223_minimum_length_of_string_after_operations;
+    mod _3394_check_if_grid_can_be_cut_into_sections;
 }
 
 mod hard {
