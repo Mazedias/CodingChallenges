@@ -64,6 +64,7 @@ mod medium {
     mod _1976_number_of_ways_to_arrive_at_destination;
     mod _1980_find_unique_binary_string;
     mod _2017_grid_game;
+    mod _2033_minimum_operations_to_make_a_uni_value_grid;
     mod _2070_most_beatiful_item_for_each_query;
     mod _2109_adding_spaces_to_a_string;
     mod _2257_count_unguarded_cells_in_the_grid;
