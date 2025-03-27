@@ -81,6 +81,7 @@ mod medium {
     mod _2657_find_the_prefix_common_array_of_two_arrays;
     mod _2661_first_completely_painted_row_or_column;
     mod _2698_find_the_punishment_number_of_an_integer;
+    mod _2780_minimum_index_of_a_valid_split;
     mod _2825_make_string_a_subsequence_using_cyclic_increments;
     mod _3066_minimum_operations_to_exceed_threshold_value_2;
     mod _3152_special_array_2;
