@@ -100,6 +100,7 @@ mod hard {
     // mod _502_ipo;
     mod _1028_recover_a_tree_from_preorder_traversal;
     mod _1092_shortest_common_supersequence;
+    mod _2444_count_subarrays_with_fixed_bounds;
 }
 
 fn main() {
