@@ -22,6 +22,7 @@ mod easy {
     mod _219_conatins_duplicate_2;
     mod _350_intersection_of_two_arrays_2;
     mod _1122_relative_sort_array;
+    mod _1128_number_of_equivalent_domino_pairs;
     mod _1346_check_if_n_and_its_double_exist;
     mod _1399_count_largest_group;
     mod _1455_check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence;
@@ -50,6 +51,7 @@ mod medium {
     mod _838_push_dominoes;
     mod _889_contruct_binary_tree_from_preorder_and_postorder_traversal;
     mod _945_minimum_increment_to_make_array_unique;
+    mod _1007_minimum_dominoe_rotation_for_equal_row;
     mod _1079_letter_tile_possibilities;
     mod _1143_longest_common_subsequence;
     mod _1261_find_elements_in_a_contaminated_binary_tree;
