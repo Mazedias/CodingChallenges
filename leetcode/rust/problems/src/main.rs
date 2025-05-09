@@ -47,6 +47,7 @@ mod medium {
     mod _12_integer_to_roman;
     mod _15_3sum;
     mod _16_3sum_closest;
+    mod _17_letter_combinations_of_a_phone_number;
     mod _802_find_eventual_save_states;
     mod _838_push_dominoes;
     mod _889_contruct_binary_tree_from_preorder_and_postorder_traversal;
@@ -93,6 +94,7 @@ mod medium {
     mod _3160_find_the_number_of_distinct_colors_among_the_balls;
     mod _3169_count_days_without_meetings;
     mod _3223_minimum_length_of_string_after_operations;
+    mod _3341_find_minimum_time_to_reach_last_room_1;
     mod _3394_check_if_grid_can_be_cut_into_sections;
 }
 
