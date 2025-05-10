@@ -89,12 +89,12 @@ mod medium {
     mod _2780_minimum_index_of_a_valid_split;
     mod _2799_count_complete_subarrays_in_an_array;
     mod _2825_make_string_a_subsequence_using_cyclic_increments;
+    mod _2918_minimum_equal_sum_of_two_arrays_after_replacing_zeros;
     mod _3066_minimum_operations_to_exceed_threshold_value_2;
     mod _3152_special_array_2;
     mod _3160_find_the_number_of_distinct_colors_among_the_balls;
     mod _3169_count_days_without_meetings;
     mod _3223_minimum_length_of_string_after_operations;
-    mod _3341_find_minimum_time_to_reach_last_room_1;
     mod _3394_check_if_grid_can_be_cut_into_sections;
 }
 
