@@ -26,6 +26,7 @@ mod easy {
     mod _1346_check_if_n_and_its_double_exist;
     mod _1399_count_largest_group;
     mod _1455_check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence;
+    mod _1550_three_consecutive_odds;
     mod _1652_defuse_the_bomb;
     mod _1752_check_if_array_is_sorted_and_rotated;
     mod _1790_check_if_one_string_swap_can_make_strings_equal;
