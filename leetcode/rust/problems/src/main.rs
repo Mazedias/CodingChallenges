@@ -49,6 +49,7 @@ mod medium {
     mod _15_3sum;
     mod _16_3sum_closest;
     mod _17_letter_combinations_of_a_phone_number;
+    mod _18_4sum;
     mod _29_divide_two_integers;
     mod _802_find_eventual_save_states;
     mod _838_push_dominoes;
