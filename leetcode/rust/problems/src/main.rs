@@ -98,6 +98,7 @@ mod medium {
     mod _3169_count_days_without_meetings;
     mod _3223_minimum_length_of_string_after_operations;
     mod _3341_find_minimum_time_to_reach_last_room_1;
+    mod _3372_maximize_the_number_of_target_nodes_after_connecting_trees_1;
     mod _3394_check_if_grid_can_be_cut_into_sections;
 }
 
