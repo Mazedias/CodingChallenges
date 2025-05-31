@@ -54,6 +54,7 @@ mod medium {
     mod _802_find_eventual_save_states;
     mod _838_push_dominoes;
     mod _889_contruct_binary_tree_from_preorder_and_postorder_traversal;
+    mod _909_snakes_and_ladders;
     mod _945_minimum_increment_to_make_array_unique;
     mod _1007_minimum_dominoe_rotation_for_equal_row;
     mod _1079_letter_tile_possibilities;
