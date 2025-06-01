@@ -94,6 +94,7 @@ mod medium {
     mod _2799_count_complete_subarrays_in_an_array;
     mod _2825_make_string_a_subsequence_using_cyclic_increments;
     mod _2918_minimum_equal_sum_of_two_arrays_after_replacing_zeros;
+    mod _2929_distribute_candies_among_children2;
     mod _3066_minimum_operations_to_exceed_threshold_value_2;
     mod _3152_special_array_2;
     mod _3160_find_the_number_of_distinct_colors_among_the_balls;
