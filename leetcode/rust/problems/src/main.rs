@@ -31,6 +31,7 @@ mod easy {
     mod _1752_check_if_array_is_sorted_and_rotated;
     mod _1790_check_if_one_string_swap_can_make_strings_equal;
     mod _1800_maximum_ascending_subarray_sum;
+    mod _2016_maximum_difference_between_increasing_elements;
     mod _2022_convert_1_d_array_into_2_d_array;
     mod _2558_take_gifts_from_the_richest_pile;
     mod _3105_longest_stictly_increasing_or_strictly_decreasing_subarray;
