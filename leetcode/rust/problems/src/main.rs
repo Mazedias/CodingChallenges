@@ -33,6 +33,7 @@ mod easy {
     mod _1800_maximum_ascending_subarray_sum;
     mod _2016_maximum_difference_between_increasing_elements;
     mod _2022_convert_1_d_array_into_2_d_array;
+    mod _2138_divide_a_string_into_groups_of_size_k;
     mod _2558_take_gifts_from_the_richest_pile;
     mod _3105_longest_stictly_increasing_or_strictly_decreasing_subarray;
     mod _3151_special_array_1;
