@@ -64,6 +64,7 @@ mod medium {
     mod _1143_longest_common_subsequence;
     mod _1261_find_elements_in_a_contaminated_binary_tree;
     mod _1267_count_servers_that_communicate;
+    mod _1277_count_square_submatrices_with_all_ones;
     mod _1352_product_of_the_last_k_numbers;
     mod _1415_the_k_th_lexicographical_string_of_all_happy_strings_of_length_n;
     mod _1462_course_schedule_4;
