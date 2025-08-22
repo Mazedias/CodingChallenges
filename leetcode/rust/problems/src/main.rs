@@ -104,6 +104,7 @@ mod medium {
     mod _3152_special_array_2;
     mod _3160_find_the_number_of_distinct_colors_among_the_balls;
     mod _3169_count_days_without_meetings;
+    mod _3195_find_the_minimum_area_to_cover_all_ones;
     mod _3223_minimum_length_of_string_after_operations;
     mod _3341_find_minimum_time_to_reach_last_room_1;
     mod _3372_maximize_the_number_of_target_nodes_after_connecting_trees_1;
