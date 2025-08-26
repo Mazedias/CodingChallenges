@@ -35,6 +35,7 @@ mod easy {
     mod _2022_convert_1_d_array_into_2_d_array;
     mod _2138_divide_a_string_into_groups_of_size_k;
     mod _2558_take_gifts_from_the_richest_pile;
+    mod _3000_maximum_area_of_longest_diagonal_rectangle;
     mod _3105_longest_stictly_increasing_or_strictly_decreasing_subarray;
     mod _3151_special_array_1;
     mod _3174_clear_digits;
@@ -54,6 +55,7 @@ mod medium {
     mod _18_4sum;
     mod _19_remove_nth_node_from_end_of_list;
     mod _29_divide_two_integers;
+    mod _34_find_first_and_last_position_of_element_in_sorted_array;
     mod _802_find_eventual_save_states;
     mod _838_push_dominoes;
     mod _889_contruct_binary_tree_from_preorder_and_postorder_traversal;
