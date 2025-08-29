@@ -102,6 +102,7 @@ mod medium {
     mod _2918_minimum_equal_sum_of_two_arrays_after_replacing_zeros;
     mod _2929_distribute_candies_among_children2;
     mod _2966_divide_array_into_arrays_with_max_difference;
+    mod _3021_alice_and_bob_playing_flower_game;
     mod _3066_minimum_operations_to_exceed_threshold_value_2;
     mod _3152_special_array_2;
     mod _3160_find_the_number_of_distinct_colors_among_the_balls;
