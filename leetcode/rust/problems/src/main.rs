@@ -74,6 +74,7 @@ mod medium {
     mod _1726_tuple_with_same_product;
     mod _1749_maximum_absolute_sum_of_any_subarray;
     mod _1765_map_of_highest_peak;
+    mod _1792_maximum_average_pass_ratio;
     mod _1823_find_the_winner_of_the_circular_game;
     mod _1910_remove_all_occurrences_of_a_substring;
     mod _1976_number_of_ways_to_arrive_at_destination;
